@@ -1,1 +1,1 @@
-Tutorial 1 Testing git push
+Tutorial 1 Testing git push and heroku
